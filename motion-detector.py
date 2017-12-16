@@ -21,11 +21,7 @@ client = None
 
 
 # initialize the camera and grab a reference to the raw camera capture
-#video_capture = cv2.VideoCapture("test_gat.mp4")
-#video_capture = cv2.VideoCapture("test_var.mp4")
-#video_capture = cv2.VideoCapture("test_stable.mp4")
-
-video_capture = cv2.VideoCapture("test_h.mp4")
+video_capture = cv2.VideoCapture("test_hmt.mp4")
 #video_capture = cv2.VideoCapture(0)
 #video_capture = cv2.VideoCapture('http://192.168.1.10')
 
